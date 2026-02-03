@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Mastering TypeScript",
+    "author": "John Doe",
+    "price": 4000,
+    "description": "A comprehensive guide to TypeScript for modern web development. Learn advanced types, generics, decorators, and best practices for building scalable applications.",
+    "coverImage": "/covers/book1.jpg",
+    "fileUrl": "https://example.com/downloads/mastering-typescript.pdf",
+    "category": "Programming"
+  },
+  {
+    "id": "2",
+    "title": "React Patterns & Best Practices",
+    "author": "Jane Smith",
+    "price": 4000,
+    "description": "Discover proven patterns and best practices for building maintainable React applications. Includes hooks, context, performance optimization, and testing strategies.",
+    "coverImage": "/covers/book2.jpg",
+    "fileUrl": "https://example.com/downloads/react-patterns.pdf",
+    "category": "Programming"
+  },
+  {
+    "id": "3",
+    "title": "Next.js Complete Guide",
+    "author": "Michael Johnson",
+    "price": 6000,
+    "description": "Master Next.js 14 with App Router, Server Components, Server Actions, and advanced deployment strategies. Build production-ready full-stack applications.",
+    "coverImage": "/covers/book3.jpg",
+    "fileUrl": "https://example.com/downloads/nextjs-guide.pdf",
+    "category": "Web Development"
+  },
+  {
+    "id": "4",
+    "title": "Tailwind CSS in Practice",
+    "author": "Sarah Williams",
+    "price": 4500,
+    "description": "Learn utility-first CSS with Tailwind. Build beautiful, responsive interfaces quickly with practical examples and real-world projects.",
+    "coverImage": "/covers/book4.jpg",
+    "fileUrl": "https://example.com/downloads/tailwind-practice.pdf",
+    "category": "Design"
+  },
+  {
+    "id": "5",
+    "title": "Building APIs with Node.js",
+    "author": "David Brown",
+    "price": 8000,
+    "description": "Design and build robust RESTful APIs with Node.js and Express. Covers authentication, validation, database integration, and API security.",
+    "coverImage": "/covers/book5.jpg",
+    "fileUrl": "https://example.com/downloads/nodejs-apis.pdf",
+    "category": "Backend Development"
+  },
+  {
+    "id": "6",
+    "title": "JavaScript Design Patterns",
+    "author": "Emily Davis",
+    "price": 5500,
+    "description": "Explore classic and modern design patterns in JavaScript. Learn when and how to apply patterns for cleaner, more maintainable code.",
+    "coverImage": "/covers/book6.jpg",
+    "fileUrl": "https://example.com/downloads/js-patterns.pdf",
+    "category": "Programming"
+  }
+]
