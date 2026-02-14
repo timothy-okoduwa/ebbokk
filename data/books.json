@@ -13,7 +13,7 @@
     "id": "2",
     "title": "React Patterns & Best Practices",
     "author": "Jane Smith",
-    "price": 3000,
+    "price": 300,
     "description": "Discover proven patterns and best practices for building maintainable React applications. Includes hooks, context, performance optimization, and testing strategies.",
     "coverImage": "/covers/book2.jpg",
     "fileUrl": "https://example.com/downloads/react-patterns.pdf",
